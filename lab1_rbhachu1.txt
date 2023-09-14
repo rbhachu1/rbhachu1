@@ -1,0 +1,56 @@
+test_a (__main__.lab0a)
+[Lab 1] - [Investigation 1] - [Task 1] - github repository - Test for git clone ... skipped ''
+test_b0 (__main__.lab0a)
+[Lab 1] - [Investigation 1] - [Task 3] - github repo details: gitlog.txt ... skipped ''
+test_b1 (__main__.lab0a)
+[Lab 1] - [Investigation 1] - [Task 3] - github repo details: repo_tree.txt ... skipped ''
+test_c (__main__.lab0b)
+[Lab 1] - [Investigation 2] - [Part 1] - directories - Test for directory structure creation ... skipped ''
+test_0 (__main__.lab1a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
+test_a (__main__.lab1a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... ok
+test_a1 (__main__.lab1a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for correct shebang line: ./lab1a.py ... ok
+test_b (__main__.lab1a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test output for correct output "Hello world": ./lab1a.py ... ok
+test_0 (__main__.lab1b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for file creation: ./lab1b.py ... ok
+test_a (__main__.lab1b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for errors running: ./lab1b.py ... ok
+test_a1 (__main__.lab1b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct shebang line: ./lab1b.py ... ok
+test_b (__main__.lab1b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct output "How old are you Isaac?": ./lab1b.py ... ok
+test_0 (__main__.lab1c)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for file creation: ./lab1c.py ... ok
+test_a (__main__.lab1c)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for errors running: ./lab1c.py ... ok
+test_a1 (__main__.lab1c)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for correct shebang line: ./lab1c.py ... ok
+test_b (__main__.lab1c)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test output for correct output "Isaac is 72 years old!": ./lab1c.py ... ok
+test_0 (__main__.lab1d)
+[Lab 1] - [Investigation 5] - math operators - Test for file creation: ./lab1d.py ... ok
+test_a (__main__.lab1d)
+[Lab 1] - [Investigation 5] - math operators - Test for errors running: ./lab1d.py ... ok
+test_a1 (__main__.lab1d)
+[Lab 1] - [Investigation 5] - math operators - Test for correct shebang line: ./lab1d.py ... ok
+test_b (__main__.lab1d)
+[Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.243s
+
+OK (skipped=4)
+OPS435 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
+    User login name: rbhachu1
+    Linux system name: fedora
+    Linux system version: Fedora release 34 (Thirty Four)
+    Python executable: /usr/bin/python3
+    Python version: 3912
+    OS Platform: linux
+    Working Directory: /home/rbhachu1/ops445/lab1
+    Start at: Wed Sep 13 14:41:31 2023
+=================================================================
